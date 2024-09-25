@@ -3,7 +3,7 @@ permalink: /
 title: "About Chengzhi"
 author_profile: true
 redirect_from: 
-  - /about/
+  - Lannister
   - /about.html
 ---
 
