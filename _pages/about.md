@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Chengzhi is currently a doblue major student from [Glasgow college, UESTC](https://www.gla.uestc.edu.cn/english/Home.htm), which means that he is an B.Eng. student in [Electrical information Engineering](https://www.gla.uestc.edu.cn/info/1189/9100.htm) at [UESTC](https://en.uestc.edu.cn/) and B.Eng.Hons student in [electronic and electrical Engineering](https://www.gla.ac.uk/undergraduate/degrees/electronics/) at [UOG](https://www.gla.ac.uk/) at the same time. During his time here, he had the privilege of being mentored by [Prof. Xu Tang](https://en.uestc.edu.cn/info/1074/1952.htm) and [Prof. Yongbo Liao](https://en.uestc.edu.cn/info/1074/1912.htm).
+Chengzhi is currently a doblue major student from [Glasgow college, UESTC](https://www.gla.uestc.edu.cn/info/1189/9100.htm), which means that he is an B.Eng. student in Electrical information Engineering at [UESTC](https://en.uestc.edu.cn/) and B.Eng.Hons student in Electronic and Electrical Engineering at [UOG](https://www.gla.ac.uk/) at the same time. During his time here, he had the privilege of being mentored by [Prof. Xu Tang](https://en.uestc.edu.cn/info/1074/1952.htm) and [Prof. Yongbo Liao](https://en.uestc.edu.cn/info/1074/1912.htm).
 
 His research interests lie in the Hardware-Software Co-Deisgned, which aims to build efficient and adaptive co-designed frameworks, including the optimization of algorithms in computer architecture, the development of accelerators in integrated circuits, and the synergy of algorithms and accelerators.
 
