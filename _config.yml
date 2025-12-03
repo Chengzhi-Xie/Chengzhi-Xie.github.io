@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chengzhi Xie"
+title                    : "Chengzhi Xie (谢承志)"
 description              : "Focusing on AI4biomedicine, especially Precision Medicine and AIDD but also intreset about medical CV and medical robot."
 repository               : "Chengzhi-Xie/Chengzhi-Xie.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chengzhi Xie"
+  name             : "Chengzhi Xie (谢承志)"
   avatar           : "images/webpho.jpg"
   bio              : "B.Eng from University of Electronic Science and Technology of China and University of Glasgow, MSc from National University of Singapore"
   location         : "Singapore"
