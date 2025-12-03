@@ -34,7 +34,7 @@ Now I'm seeking for 26fall RA/intern opportunity and 27fall PhD opportunity, ple
 
   **Chengzhi Xie**, Feitong Hong, Yijie Wei, Sijia Xie, Xinwei Luo, Xiaolong Li, Wei Su, Xueqin Xie, Yuduo Hao, Hao Lyu, Hui Ding, Huan Yang, Fuying Dao
 
-# 📚Project
+# 📚 Projects
 - Anti-cancer Peptides Prediction and Generation Through ML DL Stacked Model
 - Integrative Analysis of lncRNA Based on Machine Learning for Predicting Colon Cancer
 - Environmental Awareness Radar System Design
