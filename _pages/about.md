@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm a MSc student studying Precision Health and Medicine at National university of Singapore. I Graduate from Glasgow college, Univerisity of Electronic Science and Technology of China with B.Eng of Electronic Information Engineering(Supervised by <a href='http://lin-group.cn/lvhao.html'>Hao Lv (吕昊)</a> and <a href='http://lin-group.cn/Daofy.html'>Fu-Ying Dao (刀福英)</a>) and James Watt School of Engineering, Univerisity of Glasgow with B.Eng of Electronic and Electrical Engineering. 
+
 My research interests include AIDD, LLM4biomedicine, biomedical foundation models, ML/DL for omics, medical imaging and medical robot.
+
 Now I'm seeking for 26fall RA/inten opportunity and 27fall PhD opportunity, please feel free to email me at <a href="mailto:wzq1442602031@163.com">wzq1442602031@163.com</a> and <a href="mailto:E1538206@u.nus.edu">E1538206@u.nus.edu</a>.
 
 
