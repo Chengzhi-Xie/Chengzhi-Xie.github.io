@@ -28,7 +28,7 @@ Now I'm seeking for 26fall RA/intern opportunity and 27fall PhD opportunity, ple
 
 - [NeXtMD: a new generation of machine learning and deep learning stacked hybrid framework for accurate identification of anti-inflammatory peptides](https://link.springer.com/content/pdf/10.1186/s12915-025-02314-8.pdf), **BMC Biology**
 
-  **Chengzhi Xie**, Yijie Wei1, Xinwei Luo, Huan Yang, Hongyan Lai, Fuying Dao, Juan Feng and Hao Lv
+  **Chengzhi Xie**, Yijie Wei, Xinwei Luo, Huan Yang, Hongyan Lai, Fuying Dao, Juan Feng and Hao Lv
 
 - [PlantAMP: A fine-tuned protein large language model for plant antimicrobial peptide prediction](https://www.sciencedirect.com/science/article/pii/S2590346225003876), **Plant Communications**
 
