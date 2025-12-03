@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi, I'm a MSc student studying Precision Health and Medicine at National university of Singapore. I Graduate from Glasgow college, Univerisity of Electronic Science and Technology of China with B.Eng of Electronic Information Engineering(Supervised by <a href='http://lin-group.cn/lvhao.html'>Hao Lv (吕昊)</a> and <a href='http://lin-group.cn/Daofy.html'>Fu-Ying Dao (刀福英)</a>) and James Watt School of Engineering, Univerisity of Glasgow with B.Eng of Electronic and Electrical Engineering. 
+My research interests include AIDD, LLM4biomedicine, biomedical foundation models, ML/DL for omics, medical imaging and medical robot.
+Now I'm seeking for 26fall RA/inten opportunity and 27fall PhD opportunity, please feel free to email me at <a href="mailto:wzq1442602031@163.com">wzq1442602031@163.com</a> and <a href="mailto:E1538206@u.nus.edu">E1538206@u.nus.edu</a>.
 
 
 # 🔥 News
